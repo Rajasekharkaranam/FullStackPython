@@ -1,0 +1,7 @@
+# Day 00
+
+Introduction To Python
+what is compiler
+what is translator
+advantages of Python
+disadvantages of python
