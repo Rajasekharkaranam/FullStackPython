@@ -130,7 +130,7 @@ print(add(10, 20))
 
 #10. Map Function
 
-#map() applies a function to every item in an iterable.
+#gmap() applies a function to every item in an iterable.
 
 numbers = [1, 2, 3, 4, 5]
 
